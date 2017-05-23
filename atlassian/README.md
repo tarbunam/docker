@@ -7,6 +7,9 @@ Just some dockerfiles for various Atlassian software.
 * **jira-software** - issue tracking gone agile
 * **confluence** - wordpress meets mediawiki
 * **bitbucket** - buckets of bits, code, and whatever else your SCM needs
-* **fisheye** - that thing nobody uses to search their codbase
+* **fisheye** - that thing nobody uses to search their codebase
 * **crucible** - pretend to review code before a bug is found in production
-* **bamboo** - build, test, deploy
+* **bamboo** - build, test, deploy...hopefully in that order
+
+## Where's FishEye?
+FishEye comes bundled with Crucible. Yay.
